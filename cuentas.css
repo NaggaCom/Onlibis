@@ -1,0 +1,101 @@
+
+
+
+div.barra_arriba{
+	background-color: magenta;
+	height: 60px;
+	color: white;
+	padding: 5px 5px 5px 5px;
+	width: 100℅;
+	}
+	
+.user1{
+	color: white;
+	margin-top: 10px;
+	}
+	
+.perfil{
+	border: 6px solid white;
+	border-radius: 150px;
+	height: 100px;
+	margin-top: 59vh;
+	margin-left: 10px;
+	width: 100px
+	}
+	
+.name{
+	color: black;
+	margin-left: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	}
+
+.info{
+	color: gray;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+	}
+
+.a_info{
+	color: dodgerblue;
+	margin-left: 0px;
+	}
+	
+div.div_cont_whatsapp{
+	background-color: green;
+	border: 0px solid transparent;
+	border-radius: 100px;
+	padding: 0px 0px 0px 0px;
+	margin: 10px 10px 10px 10px;
+	}
+	
+div.div_cont_telegram{
+	background-color: dodgerblue;
+	border: 1.5px solid orange;
+	border-radius: 150px;
+	padding: 0px 0px 0px 0px;
+	margin: 10px 10px 10px 10px;
+	}	
+	
+.img_cont{
+	border: 2px solid white;
+	border-radius: 30px;
+	height: 25px;
+	margin-top: 5px;
+	margin-left: 5px;
+	padding: 3px 3px 3px 3px;
+	width: 25px;
+	}
+	
+.name_boton{
+	color: white;
+	float: right;
+	margin-right: 110px;
+	margin-top: 10px;
+	}
+	
+.publi{
+	color: black;
+	}
+	
+.perfil_p{
+	border: 3px solid orange;
+	border-radius: 100px;
+	height: 50px;
+	float: left;
+	margin-left: 0px;
+	margin-top: 20px;
+	margin-rigth: 15px;
+	width: 50px;
+	}
+	
+.name_p{
+	color: dodgerblue;
+	margin-top: 50px;
+	}
+	
+.spam_gray{
+	color: gray;
+	}
+	
